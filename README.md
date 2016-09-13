@@ -3,7 +3,9 @@ View latest React comments on Reddit (with React/Redux)
 
 ## Run
 
-View via Github Pages
+View via Github Pages at [https://samvincent.github.io/react-sample-app/](https://samvincent.github.io/react-sample-app/)
+
+**NOTE:** Github Pages does not allow us to enable CORS for Reddit, so Safari will not retrieve the comments. Chrome seems to be happy to allow the requests.
 
 Build with `npm run build`
 
